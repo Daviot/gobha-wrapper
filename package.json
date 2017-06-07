@@ -1,0 +1,20 @@
+{
+  "name": "gobha-wrapper",
+  "version": "1.0.0",
+  "description": "Sample Wrapper for the set of plugins",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs-jetpack": "^1.0.0",
+    "metalsmith": "^2.3.0",
+    "metalsmith-assets": "^0.1.0"
+  },
+  "keywords": ["gobha", "metalsmith"],
+  "author": "Daviot <gobha@daviot.at>",
+  "license": "MIT"
+}
