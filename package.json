@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Sample Wrapper for the set of plugins",
   "main": "lib/index.js",
-  "directories": {
-    "lib": "lib"
-  },
+  "directories": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
