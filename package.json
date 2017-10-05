@@ -10,9 +10,15 @@
   "dependencies": {
     "fs-jetpack": "^1.0.0",
     "metalsmith": "^2.3.0",
-    "metalsmith-assets": "^0.1.0"
+    "metalsmith-assets": "^0.1.0",
+    "metalsmith-html-minifier": "^2.2.0",
+    "metalsmith-inline-source": "^1.0.6",
+    "metalsmith-sitemap": "^1.2.0"
   },
-  "keywords": ["gobha", "metalsmith"],
+  "keywords": [
+    "gobha",
+    "metalsmith"
+  ],
   "author": "Daviot <gobha@daviot.at>",
   "license": "MIT"
 }
