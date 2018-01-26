@@ -13,7 +13,8 @@
     "metalsmith-assets": "^0.1.0",
     "metalsmith-html-minifier": "^2.2.0",
     "metalsmith-inline-source": "^1.0.6",
-    "metalsmith-sitemap": "^1.2.0"
+    "metalsmith-sitemap": "^1.2.0",
+    "metalsmith-uglifyjs": "^0.2.3"
   },
   "keywords": [
     "gobha",
