@@ -1,6 +1,6 @@
 {
   "name": "gobha-wrapper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sample Wrapper for the set of plugins",
   "main": "lib/index.js",
   "directories": {},
